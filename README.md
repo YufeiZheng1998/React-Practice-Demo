@@ -5,6 +5,5 @@ This repo records the react demo that I implemented or learned through some lect
 # virus map:
    source: Peng Chen - bilibili University...
    
-   # axios: to get all the live data
-   
-   # React:  construct the front end system
+   - axios: to get all the live data
+   - React:  construct the front end system
